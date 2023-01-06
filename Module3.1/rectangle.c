@@ -2,12 +2,12 @@
 int main()
 
 {
-	int length,breadth,area;
+	int l,b,area;
 	printf("Enter Length Of Rectangle=");
-	scanf("%d",&length);
+	scanf("%d",&l);
 	printf("Enter Breadth Of Rectangle=");
-	scanf("%d",&breadth);
-	area=length*breadth;
+	scanf("%d",&b);
+	area=l*b;
 	printf("Area Of Rectangle Is= %d",area);
 	
 	return 0;

@@ -19,6 +19,4 @@ int main()
 		printf("both are equal  %d",a,b);
 	}
 	return 0;
-
-
 }
