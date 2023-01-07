@@ -11,3 +11,5 @@ int main()
 		printf("Factorial Of %lf is %lf",num,facto);
 		return 0;
 }
+
+

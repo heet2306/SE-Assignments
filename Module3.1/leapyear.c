@@ -6,11 +6,11 @@ int main()
 	scanf("%d",&year);
 	if (year%4==0)
 	{
-		printf("This Year Is  Leap Year=%d",year);
+		printf("This Year Is  Leap Year =%d",year);
 	}
 	else
 	{
-		printf("This Year Is Not Leap Year=%d",year);
+		printf("This Year Is Not Leap Year =%d",year);
 	}
 	return 0;
 }
